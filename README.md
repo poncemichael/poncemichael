@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @poncemichael
+- 👋 Hi, I’m michael ponce
 - 👀 I’m interested in learning more about application development
 - 🌱 I’m currently learning html and javascript
 - 💞️ I’m looking to collaborate on people who is willing to train me
 - 📫 email me here poncemichael1986@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Michael learns to code :)
 - ⚡ Fun fact: I'm a sausage delivery man 
 
 <!---
